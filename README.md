@@ -6,12 +6,12 @@
 * _**For Developers: / Competetitive Programmers (Beginners)**_ 
 
 ## Development Stack
-* HTML
-* CSS
-* JS
+* Java 
+* C++
+
 
 ## Quick Start(Getting with Competetive)
-Try to read the problem twice or thrice 
-Draw some bruteforce approach 
-Try to make efficient algo then
+* Try to read the problem twice or thrice 
+* Draw some bruteforce approach 
+* Try to make efficient algo then
 
