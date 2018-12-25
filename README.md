@@ -1,6 +1,17 @@
 # StartWithBasic
 
 
-## Some Coding Solutions here
+## Some Coding Solutions here(LeetCode)
 
-## LeetCode ReverseProblem(Easy)
+* _**For Developers: / Competetitive Programmers (Beginners)**_ 
+
+## Development Stack
+* HTML
+* CSS
+* JS
+
+## Quick Start(Getting with Competetive)
+Try to read the problem twice or thrice 
+Draw some bruteforce approach 
+Try to make efficient algo then
+
