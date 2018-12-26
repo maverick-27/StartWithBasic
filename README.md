@@ -10,7 +10,7 @@
 * C++
 
 
-## Quick Start(Getting with Competetive)
+## Quick Start(Getting with Comptetive)
 * Try to read the problem twice or thrice 
 * Draw some bruteforce approach 
 * Try to make efficient algo then
